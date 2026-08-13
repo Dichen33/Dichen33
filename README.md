@@ -88,9 +88,7 @@ National First Prize - China University Robot Competition ROBOCON · Provincial 
   <img src="https://img.shields.io/github/followers/Dichen33?style=social" alt="GitHub followers" />
 </p>
 
-<p align="center">
-  <img width="56%" src="https://github-readme-stats.vercel.app/api?username=Dichen33&show_icons=true&theme=tokyonight&hide_border=true" alt="Dichen's GitHub stats" />
-</p>
+
 
 ---
 
