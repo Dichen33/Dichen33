@@ -45,7 +45,7 @@ National First Prize - China University Robot Competition ROBOCON · Provincial 
 
 ---
 
-##🛠 Technical Stack
+## 🛠 Technical Stack
 
 ##📐 Modeling & CAD
 
