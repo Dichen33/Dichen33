@@ -47,17 +47,17 @@ National First Prize - China University Robot Competition ROBOCON · Provincial 
 
 ## 🛠 Technical Stack
 
-##📐 Modeling & CAD
+### 📐 Modeling & CAD
 
 ![EDA](https://img.shields.io/badge/EDA-4b5563?style=flat)
 
-##🤖 Simulation & Robotics
+### 🤖 Simulation & Robotics
 
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros&logoColor=white)
 ![Isaac Gym](https://img.shields.io/badge/Isaac%20Gym-76B900?style=flat&logo=nvidia&logoColor=white)
 ![MuJoCo](https://img.shields.io/badge/MuJoCo-1E90FF?style=flat)
 
-##💻 Programming & Software
+### 💻 Programming & Software
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
@@ -65,15 +65,14 @@ National First Prize - China University Robot Competition ROBOCON · Provincial 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-##🎛 Embedded Hardware
+### 🎛 Embedded Hardware
 
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
 ![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=flat&logo=nvidia&logoColor=white)
 ![MSPM0G3507](https://img.shields.io/badge/MSPM0G3507-cc0000?style=flat&logo=texasinstruments&logoColor=white)
-
 ---
 
-##🤝🏻  Connect with Me
+## 🤝🏻 Connect with Me
 
 <p>
   <a href="mailto:3357573813@qq.com">
