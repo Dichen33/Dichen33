@@ -53,17 +53,17 @@ National First Prize - China University Robot Competition ROBOCON · Provincial 
 
 ### 🤖 Simulation & Robotics
 
-![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros&logoColor=white)
-![Isaac Gym](https://img.shields.io/badge/Isaac%20Gym-76B900?style=flat&logo=nvidia&logoColor=white)
-![MuJoCo](https://img.shields.io/badge/MuJoCo-1E90FF?style=flat)
+[![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)](https://docs.ros.org/en/humble/)
+[![Isaac Gym](https://img.shields.io/badge/Isaac_Gym-76B900?style=flat-square&logo=nvidia&logoColor=white)](https://developer.nvidia.com/isaac-gym)
+[![MuJoCo](https://img.shields.io/badge/MuJoCo-0094FF?style=flat-square&logo=deepmind&logoColor=white)](https://mujoco.org/)
 
 ### 💻 Programming & Software
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+[![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)](https://en.cppreference.com/w/c)
+[![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://en.cppreference.com/w/cpp)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.linux.org/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 
 ### 🎛 Embedded Hardware
 
