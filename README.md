@@ -49,7 +49,7 @@ National First Prize - China University Robot Competition ROBOCON · Provincial 
 
 ### 📐 Modeling & CAD
 
-![EDA](https://img.shields.io/badge/EDA-4b5563?style=flat)
+[![LCEDA](https://img.shields.io/badge/LCEDA-1890FF?style=flat-square&logo=easyeda&logoColor=white)](https://lceda.cn/)
 
 ### 🤖 Simulation & Robotics
 
