@@ -41,6 +41,9 @@ National First Prize - China University Robot Competition ROBOCON · Provincial 
 - [RC_WheelLeg](https://github.com/zeitvex/RC_WheelLeg) - An open-source wheel-legged robot project.
 Your feedback and comments are welcome. Let’s communicate and progress together!
 Thank you all for your attention and support!
+本开源轮腿机器人项目。
+欢迎大家提出意见与建议，我们交流探讨、共同进步！
+感谢各位的关注与支持！
 
 
 ---
