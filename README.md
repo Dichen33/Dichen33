@@ -67,9 +67,9 @@ National First Prize - China University Robot Competition ROBOCON · Provincial 
 
 ### 🎛 Embedded Hardware
 
-![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
-![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=flat&logo=nvidia&logoColor=white)
-![MSPM0G3507](https://img.shields.io/badge/MSPM0G3507-cc0000?style=flat&logo=texasinstruments&logoColor=white)
+[![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html)
+[![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white)](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/)
+[![MSPM0G3507](https://img.shields.io/badge/MSPM0G3507-cc0000?style=flat&logo=texasinstruments&logoColor=white)](https://www.ti.com/product/MSPM0G3507/)
 ---
 
 ## 🤝🏻 Connect with Me
