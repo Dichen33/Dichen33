@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=3D83F7&center=true&width=435&lines=Hi!+%F0%9F%91%8B+I'm+Dichen;Embedded+%26+Robotics+Developer;RL+%7C+Embedded+%7C+Locomotion)](https://git.io/typing-svg)
+                    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=3D83F7&center=true&width=435&lines=Hi!+%F0%9F%91%8B+I'm+Dichen;Embedded+%26+Robotics+Developer;RL+%7C+Embedded+%7C+Locomotion)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://github.com/Dichen33">
