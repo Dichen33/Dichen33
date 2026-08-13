@@ -35,8 +35,7 @@ National First Prize - China University Robot Competition ROBOCON · Provincial 
 
 ## Featured Projects
 
-- [RC_WheelLeg](https://github.com/Dichen33/RC_WheelLeg) - An open-source wheel-leg robot project covering embedded control, motor communication, gait debugging, and system integration.  
-  `Robotics` `Wheel-Leg Robot` `Embedded Control` `STM32` `C/C++`
+- [RC_WheelLeg](https://github.com/Dichen33/RC_WheelLeg) - An open-source wheel-leg robot project .  
 
 - More robotics projects are being organized and documented.  
   `ROS2` `Locomotion` `Reinforcement Learning` `Simulation`
@@ -45,7 +44,7 @@ National First Prize - China University Robot Competition ROBOCON · Provincial 
 
 ## Technical Stack
 
-### Modeling & EDA
+📐 Modeling & CAD
 
 ![EDA](https://img.shields.io/badge/EDA-4b5563?style=flat)
 
