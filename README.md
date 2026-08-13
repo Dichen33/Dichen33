@@ -15,7 +15,7 @@
   </a>
 </p>
 
-## About Me
+## 🚀About Me
 
 I'm Dichen, a junior undergraduate and robotics enthusiast. I have hands-on experience in robot electrical control and algorithm development, spanning hardware integration, embedded control, and software implementation. I believe these experiences will carry me further on the path of building robots that move, sense, and think.
 
