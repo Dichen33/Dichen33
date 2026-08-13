@@ -38,7 +38,7 @@ National First Prize - China University Robot Competition ROBOCON · Provincial 
 
 ## Featured Projects
 
-- [RC_WheelLeg]([https://github.com/Dichen33/RC_WheelLeg](https://github.com/zeitvex/RC_WheelLeg)) - An open-source wheel-leg robot project .  
+- [RC_WheelLeg](https://github.com/zeitvex/RC_WheelLeg) - An open-source wheel-leg robot project .  
 
 - More robotics projects are being organized and documented.  
   `ROS2` `Locomotion` `Reinforcement Learning` `Simulation`
